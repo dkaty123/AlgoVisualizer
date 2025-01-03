@@ -8,8 +8,6 @@
 
 Author : [Dev Katyal](devkatyal01@gmail.com)
 
-<img src="https://media2.giphy.com/media/6wa5vuYvetU1Jibm13/giphy.gif?cid=ecf05e47ot9ej3657scll8evgmu0okov4ehohagfunabol8j&rid=giphy.gif&ct=g" height="350px" width="100%" >
-
 ## 🛠️ Built with :
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/netlify%20-%2300C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white"/> 
 - **Frontend**: HTML, CSS, Javascript
@@ -30,39 +28,6 @@ Author : [Dev Katyal](devkatyal01@gmail.com)
 
 
 ## 📸 Screenshots :
-<table>
-    <tr>
-        <td colspan="2">
-            <img src="/assets/home-page.jpeg"></img>
-            <br />
-            <h3 align="center">Home Page</h3>
-        </td>
-    </tr>
-    <tr>
-        <td width="50%">
-            <img src="https://github.com/Sayan-Maity/Algorithm-Visualizer/blob/main/assets/trie-preview.jpg"></img>
-            <br />
-            <p align="center">Trie </p>
-        </td>
-        <td width="50%">
-            <img src="https://github.com/Sayan-Maity/Algorithm-Visualizer/blob/main/assets/preview2.jpg"></img>
-            <br />
-            <p align="center">Binary Search Tree</p>
-        </td>
-    </tr>
-    <tr>
-        <td width="50%">
-            <img src="https://github.com/Sayan-Maity/Algorithm-Visualizer/blob/main/assets/path-preview.jpg"></img>
-            <br />
-            <p align="center">Path Finding</p></td>
-        <td width="50%">
-            <img src="https://github.com/Sayan-Maity/Algorithm-Visualizer/blob/main/assets/sorting-preview.jpg"></img>
-            <br />
-            <p align="center">Sorting</p>
-        </td>
-    </tr>
-</table>
-
 
 ## ⏳ Future Improvements :
 
