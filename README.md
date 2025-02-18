@@ -16,7 +16,7 @@
 ## 👨‍💻 How to Use :
 - Select the algorithm you want to visualize from the dropdown menu.
 - Enter the input for the algorithm in the text field (for trie and binary search tree, you can use a list of words)
-- Press the "Visualize" button to see the animation of the algorithm in action.
+- Press the "Visualize" button to see the animation of the algorithm in action
 - Press the "Pause" button to pause the animation
 
 ## 📸 Screenshots :
